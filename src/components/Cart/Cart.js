@@ -50,7 +50,7 @@ class Cart extends Component {
           </div>
           <Link to='/checkout' id='Cart_navLink'>
             <div id="Cart__footer" onClick={ this.toggleCartDetails }>
-              <span> Checkout </span>
+              <span> Checkout! </span>
             </div>
           </Link>
         </div>
